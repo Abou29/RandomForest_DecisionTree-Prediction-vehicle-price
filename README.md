@@ -1,4 +1,4 @@
-# Prédire avec random forest, decision tree le prix d'une voiture en fonction de ses caractéristiques techniques.
+# Prédire avec random forest, decision tree, gradient boost le prix d'une voiture en fonction de ses caractéristiques techniques.
 
 Le dataset comporte 205 observations pour 26 colonnes.  
 La variable à expliquer est la colonne price.  
